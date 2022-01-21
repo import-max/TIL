@@ -1,6 +1,6 @@
 ## Vector
 
-[참고 영상1](https://youtu.be/br7tS1t2SFE)
+[참고 영상1](https://youtu.be/br7tS1t2SFE)<br>
 [참고 영상2](https://youtu.be/CytxrmaUY98)
 
 * Vector = 크기(Magnitude) + Direction(방향)<br> = List(리스트)
