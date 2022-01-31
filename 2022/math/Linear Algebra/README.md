@@ -4,7 +4,7 @@
 
 [Khan Academy](https://ko.khanacademy.org/math/linear-algebra/vectors-and-spaces)
 
-[3Blue1Brwon](https://youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+[3Blue1Brown](https://youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 
 Gilber Stran's [MIT Lecture](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-1-the-geometry-of-linear-equations/)
 
