@@ -22,13 +22,21 @@ It doesn't matter the size/amount of data.
 Focusing on the training examples that are close to where I want to make a prediction. The values are similar on the x axis.
 To make a prediction, I will use the line that just fit to make a prediction at that value of x
 What i wound do is focus on the local area and use the straight line.
-1) Fit theta to minimize a modified cost function.
-W(i) is the weighting function makes a value between 0 and 1 that tells me how much should I pay attention to the values of xi,yi.
-2) 
-
+Fit theta to minimize a modified cost function.
+W(i) is the weighting function makes a value between 0 and 1 that tells me how much should I pay attention to the values of xi,yi. Cost Function, Not Gaussian bell curve(density)
 ex)linear regression
 
 - Non-parametic learning algorithms : The amount of data/parameters keep grow with the size of training set.
 The amount of stuff grows linearly as a function of the training set size.
 It is not good for the massive dataset because I need to keep all of data in my computer memory/disk to make predictions.
 ex) locally weighted regression
+
+
+
+* tau
+* Overfitting, Underfitting
+
+*The reason why we use a squared error
+
+A probabilistic interpretation of linear regression
+
