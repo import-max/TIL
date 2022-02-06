@@ -40,3 +40,32 @@ ex) locally weighted regression
 
 A probabilistic interpretation of linear regression
 
+Why Least squares?
+Epsilon i E(i) is distrubted Gaussian would mean 0 and co-variance sigma squared.(Normal distrubution)
+
+* IID (Independently and Identically Distributed)
+
+; semicolon..theta is not a random variable..
+
+* MLE (Maximum Likelihood Estimation) :  The theta to maximize the likelikehood
+i.e. choose theta to minimize the likelihood (J(theta)) + sigma squared
+
+* Classification
+- Binary Classification 
+
+Linear Regression isn't a good algorithm for classification. Because it fits very bad...
+
+Logistic Regression needs sigmoid function.
+There are a lot of loss functions but the reason why picking sigmoid up is there's a broader class of algorithms called generalized linear models.
+
+* Log likelihood
+Try to choose value of theta to maximize l(theta) :  gradient descent
+
+Q. Is there a equivalent of normal equations to logistic regression? No.
+
+
+* Newton's method (big jump) : very fast algorithm
+Bigger but more expensive than gradient descent
+
+L prime.. F(theta) Tangent.. Delta..
+f of theta is same to l prime of theta (f(theta) = l'(theta)
